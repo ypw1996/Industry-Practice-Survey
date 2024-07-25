@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5223a416-35d7-4b03-b106-5bdf05360fa0)# Industry-Practice-Survey
+# Industry-Practice-Survey
 工业界算法实践调研
 
 ## 推荐算法实践
