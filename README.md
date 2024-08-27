@@ -7,7 +7,7 @@
 
 | 公司         | 内容                                                         | 标签          | 时间       |
 | ------------ | ------------------------------------------------------------ | ------------- | ---------- |
-| 京东 | [多模态在京东内容算法上的应用](https://mp.weixin.qq.com/s/O-8YfYTpUO8ixtMl14BTPw) | 多模态 | 2024-08-22 |
+| 京东 ｜ [多模态在京东内容算法上的应用](https://mp.weixin.qq.com/s/O-8YfYTpUO8ixtMl14BTPw) | 多模态 | 2024-08-22 |
 | 美团 ｜ [信息流广告预估技术在美团外卖的实践](https://mp.weixin.qq.com/s/LqkYvp-OFEpWCcRzEy1b5Q) | 广告 | 2024-08-15 |
 | 阿里妈妈 ｜ [基于原生图文信息的多模态预估模型](https://mp.weixin.qq.com/s/XWMOSypjF9XrwqwZsEXF7g) | Embedding | 2024-08-02 |
 | 小红书 | [小红书去中心化内容分发技术](https://mp.weixin.qq.com/s/O9LueIBrh8AJ4omid-nBUA) | 推荐 | 2024-07-31 |
